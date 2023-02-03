@@ -1,2 +1,2 @@
 # YetGenCorePython2
-##eğitimcheck
+## eğitimcheck
